@@ -9,3 +9,7 @@ int main(){
 cout<<"ㅎㅇ"<<endl;
 }
 ```
+
+```C#
+Debug.Log("하이");
+```
